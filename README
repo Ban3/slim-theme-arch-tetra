@@ -21,7 +21,7 @@ Installation
 Installation will depend upon your distribution; typically SLiM themes
 are placed in '/usr/share/slim/themes/'
 
-For Linux users can install it with their preferred method via AUR:
+Arch Linux users can install it with their preferred method via AUR:
     https://aur.archlinux.org/packages/slim-theme-arch-tetra/
 
 Once installed, activate a given theme by editing the SLiM config,

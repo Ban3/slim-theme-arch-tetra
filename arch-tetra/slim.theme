@@ -23,7 +23,7 @@ input_name_x            85
 input_name_y            100
 input_pass_x            85
 input_pass_y            115
-input_font          	edges
+input_font          	edges:antialias=True:hinting=True
 input_color             #ffffff
 
 # Username / password request (relative to panel)

@@ -8,7 +8,7 @@
 
 # Messages (ie: shutdown)
 msg_color               #ffffff
-msg_font                edges
+msg_font                edges:antialias=True:hinting=True
 msg_x                   75%
 msg_y                   50%
 
@@ -27,7 +27,7 @@ input_font          	edges
 input_color             #ffffff
 
 # Username / password request (relative to panel)
-username_font          	edges
+username_font          	edges:antialias=True:hinting=True
 username_color        	#ffffff
 username_x              19
 username_y              100

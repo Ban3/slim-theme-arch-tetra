@@ -29,9 +29,9 @@ input_color             #ffffff
 # Username / password request (relative to panel)
 username_font          	edges:antialias=True:hinting=True
 username_color        	#ffffff
-username_x              19
+username_x              30
 username_y              100
-password_x              19
+password_x              30
 password_y              115
 
 username_msg            username  <

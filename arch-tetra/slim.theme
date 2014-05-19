@@ -19,9 +19,9 @@ background_color        #000000
 # Input controls (relative to panel)
 input_panel_x           20%
 input_panel_y           50%
-input_name_x            85
+input_name_x            120
 input_name_y            100
-input_pass_x            85
+input_pass_x            120
 input_pass_y            115
 input_font          	edges:antialias=True:hinting=True
 input_color             #ffffff

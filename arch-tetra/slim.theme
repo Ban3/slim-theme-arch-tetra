@@ -19,20 +19,20 @@ background_color        #000000
 # Input controls (relative to panel)
 input_panel_x           20%
 input_panel_y           50%
-input_name_x            85
+input_name_x            140
 input_name_y            100
-input_pass_x            85
-input_pass_y            115
+input_pass_x            140
+input_pass_y            120
 input_font          	edges:antialias=True:hinting=True
 input_color             #ffffff
 
 # Username / password request (relative to panel)
 username_font          	edges:antialias=True:hinting=True
 username_color        	#ffffff
-username_x              19
+username_x              30
 username_y              100
-password_x              19
-password_y              115
+password_x              30
+password_y              120
 
 username_msg            username  <
 password_msg            password  <
